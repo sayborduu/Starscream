@@ -27,7 +27,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 import Foundation
-import zlib
+import Zlib
 
 public class WSCompression: CompressionHandler {
     let headerWSExtensionName = "Sec-WebSocket-Extensions"
